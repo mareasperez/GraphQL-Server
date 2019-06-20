@@ -1,0 +1,25 @@
+{
+    "courses":[
+        {
+            "id":1,
+            "title":"Nodejs Course",
+            "author":"jhon :v",
+            "topic":"javascript",
+            "url":"www.google.com"
+        },
+        {
+            "id":2,
+            "title":"Rust :vv",
+            "author":"alguien :v",
+            "topic":"rust",
+            "url":"www.google.com2"
+        },
+        {
+            "id":3,
+            "title":"django Course",
+            "author":"python",
+            "topic":"javascript",
+            "url":"www.google.com/pay"
+        }
+    ]
+}
